@@ -1,5 +1,25 @@
-# 💫 About Me:
-🔬 Pursuing bioinformatics and computational biology with a strong interest in data-driven biological discovery<br>🧬 Curious about genomics, transcriptomics, and the computational methods behind modern life science research<br>💻 Building projects that connect biology with programming, analysis, and intelligent problem-solving<br>📈 Interested in extracting meaningful patterns from complex biological datasets<br>🤝 Open to collaboration on research, innovation, and interdisciplinary projects<br>🌱 Constantly learning, experimenting, and growing at the intersection of biology and computation
+# Hi, I'm Sushant Agellu 👋
+
+MS Bioinformatics & Computational Biology @ Saint Louis University (Dec 2026)
+Researching clinical genomics, RNA-seq transcriptomics, and variant analysis.
+
+## Current Research
+- 🧬 HHT Genomics — NIH All of Us Researcher Workbench | Hail, BigQuery, Python
+- 🔬 ALS Transcriptomics — Immune cell DESeq2 analysis | GEO: GSE60424
+
+## Skills
+Python | R | SQL | Bash | Hail | BigQuery | DESeq2 | edgeR | STAR | BWA | Samtools | Kraken2 | Linux/HPC
+
+## Projects
+| Project | Tools | Status |
+|---------|-------|--------|
+| HHT Variant Analysis (All of Us) | Python, Hail, BigQuery | Active |
+| ALS Transcriptomic Profiling (GSE60424) | R, DESeq2, edgeR | Complete |
+| RNA-seq DE Analysis | STAR, DESeq2, Bash | Complete |
+| Variant Calling Pipeline | BWA, Samtools, IGV | Complete |
+| Metagenomic Profiling | Kneaddata, Kraken2 | Complete |
+
+📫 agellusushant@gmail.com | [LinkedIn](your-link)
 
 
 ## 🌐 Socials:
